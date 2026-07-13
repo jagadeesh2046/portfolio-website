@@ -1,0 +1,29 @@
+.about{
+    padding:100px 80px;
+
+    text-align:center;
+}
+
+.about h2{
+
+    font-size:45px;
+
+    margin-bottom:40px;
+
+    color:#38bdf8;
+
+}
+
+.about p{
+
+    max-width:900px;
+
+    margin:20px auto;
+
+    font-size:20px;
+
+    line-height:1.8;
+
+    color:#cbd5e1;
+
+}

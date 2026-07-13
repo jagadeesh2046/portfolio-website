@@ -1,0 +1,46 @@
+.education{
+    padding:100px 80px;
+    text-align:center;
+}
+
+.education h2{
+    font-size:45px;
+    color:#38bdf8;
+    margin-bottom:50px;
+}
+
+.education-card{
+
+    max-width:700px;
+
+    margin:auto;
+
+    background:#1e293b;
+
+    padding:40px;
+
+    border-radius:15px;
+
+}
+
+.education-card h3{
+
+    color:#38bdf8;
+
+    margin-bottom:15px;
+
+}
+
+.education-card h4{
+
+    color:#94a3b8;
+
+    margin-bottom:15px;
+
+}
+
+.education-card p{
+
+    margin:10px 0;
+
+}

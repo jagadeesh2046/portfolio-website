@@ -1,0 +1,76 @@
+.hero{
+    height:90vh;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    text-align:center;
+
+    padding:0 20px;
+}
+
+
+.hero-content{
+    max-width:800px;
+}
+
+.hero h3{
+    font-size:30px;
+    color:#38bdf8;
+}
+
+.hero h1{
+    font-size:40px;
+    margin:10px 0;
+}
+
+.hero h2{
+    font-size:35px;
+    color:#94a3b8;
+    margin-bottom:20px;
+}
+
+.hero p{
+    font-size:20px;
+    line-height:1.8;
+    margin-bottom:30px;
+}
+
+.hero-buttons{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+}
+
+.hero-buttons button{
+
+    padding:15px 30px;
+
+    border:none;
+
+    border-radius:8px;
+
+    background:#38bdf8;
+
+    color:white;
+
+    font-size:18px;
+
+    cursor:pointer;
+
+    transition:.3s;
+}
+
+.hero-buttons button:hover{
+
+    background:#0284c7;
+
+    transform:translateY(-3px);
+
+}.profile-circle img {
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+    border-radius: 50%;
+}
