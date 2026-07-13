@@ -1,4 +1,4 @@
-import "../styles/Hero.css";
+import "../Styles/Hero.css";
 import profile from "../assets/profile.jpeg"
 import { resume } from "react-dom/server";
 function Hero() {
