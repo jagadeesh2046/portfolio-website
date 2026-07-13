@@ -36,3 +36,6 @@
     color:#38bdf8;
 
 }
+.navbar{
+    flex-wrap:wrap;
+}

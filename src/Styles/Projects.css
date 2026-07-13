@@ -102,3 +102,6 @@
     background:#0284c7;
 
 }
+.projects-container{
+    flex-direction:column;
+}
